@@ -11,6 +11,16 @@ const BlogSchema = new Schema({
         type: String,
         required: true, 
     },
+    author:
+    {
+        type: String,
+        required: true
+    },
+    author_link:
+    {
+        type: String,
+        required: true
+    },
     tag:{
         type: String,
         default: "General"
