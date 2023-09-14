@@ -34,3 +34,5 @@
 - Only upcoming recent events will be shown
 - Each event has a promotional poster
 - Each event is held by a list of people (points of contact)
+
+### To Do
